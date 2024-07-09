@@ -1,0 +1,603 @@
+.header{
+    display: flex;
+    margin-left: 7%;
+    margin-top: 50px;
+}
+.spa{
+    color: rgb(243, 8, 165);
+}
+.had{
+    display: flex;
+}
+img{
+    height: 35px;
+    width: 70px;
+    margin: 5px 20px;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0px;
+}
+ul{
+    display: flex;
+}
+ul, li{
+    list-style: none;
+    gap: 50px;
+}
+ul, li, a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #585757;
+}
+nav{
+    margin-left: 40%;
+}
+#ico{
+    color: red;
+    font-size: 25px;
+    margin-left: 10px;
+}
+#icon{
+    color: black;
+    margin-left: 10px;
+}
+.apan{
+    display: flex;
+    background-color: #c9c6c6;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: -10px;
+}
+.GOAT{
+    margin-top: 50px;
+    background-color: rgb(253, 248, 248);
+}
+.banner{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 150px;
+    background-image: url(images/Group\ 14.png);
+    background-size: 1px;
+}
+.img{
+    height: 550px;
+    width: 550px;
+    margin-top: -90px;
+    padding-top: -130px;
+}
+.btn-primary{
+    background-color: rgb(230, 29, 153);
+    padding: 15px 30px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    border: none;
+    margin-right: 15px;
+    color: #fff;
+    margin-top: 40px;
+    
+}
+.btn-primar{
+    background-color: rgb(230, 29, 153);
+    padding: 15px 30px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    border: none;
+    color: #fff;
+    margin-top: 40px;
+    
+}
+.btn-aqea{
+    background-color: #0abfec;
+}
+/* .btn{
+    background-color: rgb(8, 208, 243);
+    padding: 15px 30px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+    border: none;
+    color: #fff;
+    margin-top: 40px;
+} */
+.all{
+    margin-top: -40px;
+}
+.header-secktion{
+    font-size: 75px;
+    color: rgb(216, 34, 155);
+}
+.header-1{
+    font-size: 45px;
+    margin-bottom: 10px;
+}
+.header-2{
+    font-size: 45px;
+    color: rgb(216, 34, 155);
+}
+.pragrap{
+    font-size: 18px;
+    color: #383737;
+    margin: 0px 0px 0px 20px;
+}
+.pragra{
+    padding-top: 20px;
+    font-size: 28px;
+    color: #383737;
+    margin: 0px 0px 0px 20px;
+}
+#solid{
+    color: rgb(216, 34, 155);
+}
+.t{
+    display:flex;
+    margin-top: 10px;
+}
+.img-boxar{
+    height: 350px;
+    width: 700px;
+}
+.gamer{
+   display: flex; 
+   justify-content: center;
+   background-color: rgb(255, 246, 252);
+   padding-top: 100px;
+}
+.gams{
+    text-align: end;
+    margin-right: 50px;
+}
+.Online-Games{
+    margin-top: 100px;
+}
+.everyone{
+    font-size: 30px;
+    color: #383737;
+}
+.sackttion-list{
+    text-align: center;
+}
+.kave{
+    color: rgb(216, 34, 155);
+}
+.int{
+    height: 300px;
+    width: 280px;
+}
+.color{
+    color: #383737;
+    margin-top: -13px;
+}
+.banner-list{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.into{
+    font-size: 18px;
+    width: 280px;
+    color: #383737;
+    margin-left: 30px;
+}
+.Now{
+    color: rgb(247, 0, 164);
+    font-size: 18px;
+}
+.taclk{
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+}
+#fa{
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.imt{
+    background: #383737;
+}
+.add{
+    color: #383737;
+    font-size: 18px;
+}
+.gmi{
+    height: 550px;
+    width: 500px;
+}
+.giml{
+    height: 280px;
+    width: 220px;
+}
+.giml-1{
+    height: 280px;
+    width: 220px;
+}
+.Instantly{
+    margin: 0px 0px 0px 300px;
+    width: 80%;
+}
+.gim{
+    position: relative;
+    bottom: 200px;
+    text-align: center;
+}
+.gim-1{
+    position: relative;
+    bottom: 200px;
+    right: 120px;
+    text-align: center;
+}
+.Anytime{
+    margin-top: -50px;
+}
+.banner-play{
+    display: flex;
+    justify-content: space-evenly;
+}
+.banner-player{
+    text-align: end;
+    margin-top: 210px;
+}
+.plar{
+    color: rgb(179, 8, 122);
+}
+.Rectangle{
+    height: 550px;
+    width: 500px;
+}
+.banner-play-2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 150px;
+}
+.banner-player-1{
+    margin-top: 210px;
+}
+.Group{
+    height: 700px;
+    width: 700px;
+}
+.lost-style{
+    display: flex;
+    gap: 50px;
+}
+.skhril{
+    display: flex;
+    justify-content: center;
+}
+.skrilar{
+    padding: 100px 120px;
+}
+.Careers{
+    background-color: #b93979;
+    height: 700px;
+}
+.Data-1{
+    text-align: end;
+    font-size: 18px;
+    color: #d8d5d5;
+}
+.Data{
+    font-size: 18px;
+    color: #eceaea;
+}
+.driven{
+    font-size: 17px;
+    color: #e4e0e0;
+}
+.ton{
+    background-color: rgb(243, 229, 238);
+    padding: 20px 35px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    font-size: 16px;
+    border: none;
+    color: rgb(179, 8, 122);
+    margin-top: 50px;
+}
+.best{
+    color: #fff;
+}
+.diver,.divert{
+    display: flex;
+}
+.divq{
+    display: flex;
+    margin-left: 100px;
+    width: 101%;
+    margin-top: 10%;
+}
+.dive{
+    display: flex;
+    margin-left: 100px;
+    width: 101%;
+    margin-top: 10%;
+}
+.diver-1{
+    display: flex;
+    border: 1px solid rgb(179, 8, 122);
+    padding: 5px 20px;
+    border-radius: 50px;
+}
+.divel{
+    display: flex;
+}
+.oo{
+    color: rgb(179, 8, 122);
+}
+.list-up{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+/* .list-it{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 30px;
+} */
+.Arcade-Games{
+    height: 200px;
+    margin-top: 100px;
+}
+.p{
+    width: 50px;
+    height: 50px;
+}
+.pq{
+    width: 50px;
+    height: 50px;
+}
+.Web-games{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    margin-top: 50px;
+    background-color: #120131;
+    padding: 100px 0px 100px 0px;
+    height: 600px;
+}
+.Support{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.font{
+    margin-left: 33%;
+    margin-top: 50px;
+}
+#bulat{
+    color: #ffffff;
+    font-size: 40px;
+    margin-left: 40px;
+}
+.Privacy{
+    display: flex;
+    margin-left: 29%;
+    gap: 80px;
+    margin-top: 50px;
+}
+.vv{
+    font-size: 17px;
+    color: #fff;
+}
+.vvv{
+    font-size: 17px;
+    color: #949090;
+}
+.kk{
+    color: #fff;
+}
+.Bangladesh{
+    text-align: center;
+    margin-left: 40px;
+}
+/* mobile resjpondsip */
+.hide{
+    display: none;
+}
+@media screen and (max-width:576px){
+.header{
+    flex-direction: column;
+    margin: 0;
+}
+ul{
+    flex-direction: column;
+    margin-left: 130px;
+} 
+nav{
+    margin: 0;
+} 
+.had{
+    margin-left: 80px;
+}
+.apan{
+    width: 170px;
+    margin: 0 0 0 -65px;
+}  
+.banner{
+    flex-direction: column;
+    margin-top: 140%;
+    background-image: none;
+}
+.img{
+    width: 80%;
+    height: 70%;
+    position: absolute;
+    bottom: -150px;
+}
+.banner-sacktion{
+    margin-left: 80px;
+}
+.gamer{
+    flex-direction: column;
+}
+.img-boxar{
+    height: 100%;
+    width: 90%;
+}
+.gams{
+    width: 100%;
+    text-align: center;
+}
+.pragrap{
+    margin: 0;
+}
+.fgc{
+    font-size: 35px;
+    margin-top: 0px;
+}
+.pragra{
+    margin-top: 30px;
+}
+.banner-list{
+    flex-direction: column;
+}
+.int{
+    height: 80%;
+    width: 90%;
+}
+.into{
+    width: 90%;
+    text-align: center;
+}
+.banner-play{
+    flex-direction: column;
+    
+}
+.gmi{
+    margin: 0;
+    width: 110%;
+    padding-left: 55px;
+    padding-top: 50px;
+
+}
+.gim{
+    right: 80px;
+}
+.banner-player{
+    text-align: center;
+    margin-left: 40px;
+    width: 100%;
+}
+.Instantly{
+    margin:-100px 0px;
+    
+}
+.banner-play-2{
+    flex-direction: column;
+}
+.Anytime{
+    margin-top: 70%;
+}
+.banner-player-3{
+    margin-top: -50px;
+}
+.Rectangle{
+    margin: 0;
+    width: 135%;
+    padding-left: 55px;
+    padding-top: 50px;
+
+}
+.banner-player-1{
+    position: absolute;
+    top: 860%;
+    text-align: center;
+    margin-left: 30px;
+}
+.skhril{
+    flex-direction: column;
+}
+.Careers{
+    height: 150%;
+}
+.skrilar{
+    width: 90%;
+    padding: 20px;
+}
+.Group{
+    width: 90%;
+    height: 90%;
+    margin-top: 50px;
+}
+.driven{
+    font-size: 13px;
+}
+.divel{
+    display: none;
+    
+}
+.list-up{
+    flex-direction: column;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 0;
+}
+.list-it{
+    flex-direction: column;
+}
+.Arcade-Games{
+    margin-top: 50px;
+    padding: 0;
+    height: 70px;
+}
+.dive{
+    display: none;
+}
+.divq{
+    margin: 0 10px 0 0;
+}
+.mm{
+    font-size: 10px;
+}
+.oo{
+    font-size: 10px;
+    width: 70px;
+}
+.p{
+    width: 20px;
+    height: 20px;
+}
+.diver-1{
+    padding: 0px -0px;
+    margin-right: -0px;
+}
+.Support{
+    flex-direction: column;
+    display: grid;
+    gap: 0px;
+    text-align: center;
+    grid-template-columns: repeat(3,1fr);
+    
+}
+.font{
+    margin:50px 0;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 50px 0;
+    text-align: center;
+}
+#bulat{
+    margin: 0;
+    
+    
+}
+.Privacy{
+    flex-direction: column;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 0;
+    text-align: center;
+    margin-top: 30px;
+}
+.Bangladesh{
+    text-align: center;
+    margin:70px 0;
+}
+}
